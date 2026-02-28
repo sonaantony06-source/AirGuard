@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [AirGuard] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [CodeNova]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Sona V A] - [Vidya Academy Of Science and Technology]
+- Member 2: [Sona P Sailan] - [Vidya Academy Of Science and Technology]
 
 ### Hosted Project Link
 [mention your project hosted link here]
